@@ -4,5 +4,5 @@
 
 Para rodar esse projeto acesse o link abaixo:
 ```
-https://editor.p5js.org/](https://editor.p5js.org/KevenNunes/full/zXiliH9IP)https://editor.p5js.org/KevenNunes/full/zXiliH9IP
+https://editor.p5js.org/KevenNunes/sketches/zXiliH9IP
 ```
