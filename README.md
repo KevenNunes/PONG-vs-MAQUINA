@@ -2,8 +2,7 @@
 
 > Status do projeto: Concluído
 
-Para rodar esse projeto:
+Para rodar esse projeto acesse o link abaixo:
 ```
-acesse:
 https://editor.p5js.org/](https://editor.p5js.org/KevenNunes/full/zXiliH9IP)https://editor.p5js.org/KevenNunes/full/zXiliH9IP
 ```
